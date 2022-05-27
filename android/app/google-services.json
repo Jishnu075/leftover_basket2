@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "297911378275",
+    "project_id": "leftover-basket-44833",
+    "storage_bucket": "leftover-basket-44833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297911378275:android:c19ea4d0e4a6625218b356",
+        "android_client_info": {
+          "package_name": "com.example.sahara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297911378275-di00poenqd11t3dnbnpokrrqobqmttau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJti3zZrhPaDJymyz3rw8WXQXxQas5_Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297911378275-di00poenqd11t3dnbnpokrrqobqmttau.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297911378275-119jk8gdbm8a4im1acksst9cutipg00o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sahara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
