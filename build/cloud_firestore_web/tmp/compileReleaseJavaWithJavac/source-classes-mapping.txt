@@ -1,0 +1,4 @@
+io/flutter/plugins/cloud_firestore_web/BuildConfig.java
+ io.flutter.plugins.cloud_firestore_web.BuildConfig
+io/flutter/plugins/cloud_firestore_web/FirestoreWebPlugin.java
+ io.flutter.plugins.cloud_firestore_web.FirestoreWebPlugin

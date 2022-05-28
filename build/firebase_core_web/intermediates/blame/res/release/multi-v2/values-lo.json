@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\jishn\\Desktop\\PROJECT FINAL\\leftover_basket\\build\\firebase_core_web\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jishn\\.gradle\\caches\\transforms-2\\files-2.1\\307c16168b877ef5a21b48fc6c949dfc\\core-1.6.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\jishn\\Desktop\\PROJECT FINAL\\leftover_basket\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\values-lo\\values-lo.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jishn\\.gradle\\caches\\transforms-2\\files-2.1\\307c16168b877ef5a21b48fc6c949dfc\\core-1.6.0\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

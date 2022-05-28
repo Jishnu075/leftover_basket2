@@ -1,7 +1,7 @@
 leftover_basket
 2.7
-file:///C:/Users/jishn/Desktop/sahara/Sahara/SAHARA_FINAL/
-file:///C:/Users/jishn/Desktop/sahara/Sahara/SAHARA_FINAL/lib/
+file:///C:/Users/jishn/Desktop/PROJECT%20FINAL/leftover_basket/
+file:///C:/Users/jishn/Desktop/PROJECT%20FINAL/leftover_basket/lib/
 archive
 2.0
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/archive-2.0.13/
@@ -174,6 +174,10 @@ quiver
 2.0
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.1.5/
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.1.5/lib/
+sleek_circular_slider
+2.12
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/sleek_circular_slider-2.0.1/
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/sleek_circular_slider-2.0.1/lib/
 source_span
 2.12
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.1/
@@ -198,6 +202,10 @@ test_api
 2.12
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8/
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.4.8/lib/
+top_snackbar_flutter
+2.12
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/top_snackbar_flutter-1.1.1/
+file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/top_snackbar_flutter-1.1.1/lib/
 typed_data
 2.12
 file:///C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0/

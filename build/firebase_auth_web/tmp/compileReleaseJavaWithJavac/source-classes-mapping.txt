@@ -1,0 +1,4 @@
+io/flutter/plugins/firebaseauth_web/FirebaseAuthWebPlugin.java
+ io.flutter.plugins.firebaseauth_web.FirebaseAuthWebPlugin
+io/flutter/plugins/firebaseauth_web/BuildConfig.java
+ io.flutter.plugins.firebaseauth_web.BuildConfig

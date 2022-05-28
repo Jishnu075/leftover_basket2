@@ -3,6 +3,7 @@
 // ignore_for_file: missing_return
 
 import 'package:flutter/material.dart';
+import 'package:leftover_basket/screens/forgot_pwd.dart';
 import 'package:leftover_basket/screens/ongoing_orders.dart';
 import './screens/past_orders_details.dart';
 import 'package:leftover_basket/screens/about.dart';
@@ -121,6 +122,7 @@ class _MyAppState extends State<MyApp> {
         Tabs.routeName: (ctx) => Tabs(),
         PastOrderDetailScreen.routeName: (ctx) => PastOrderDetailScreen(),
         OngoingOrders.routeName: (ctx) => OngoingOrders(),
+        ForgotPassword.routeName: (ctx) => ForgotPassword(),
       },
     );
   }

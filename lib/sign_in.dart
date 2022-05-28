@@ -6,6 +6,7 @@ import './sign_up.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import './screens/donor_main.dart';
 import './screens/receiver_home_screen.dart';
+import 'screens/forgot_pwd.dart';
 //import './error.dart';
 
 class SignIn extends StatefulWidget {
@@ -229,10 +230,16 @@ class _SignInState extends State<SignIn> {
                       controller: pwd,
                       decoration: InputDecoration(
                           labelText: 'Password',
-                          prefixIcon: Icon(Icons.lock,color: Colors.black,),
+                          prefixIcon: Icon(
+                            Icons.lock,
+                            color: Colors.black,
+                          ),
                           suffixIcon: IconButton(
                             icon: _showPwd
-                                ? Icon(Icons.visibility_off,color: Colors.black,)
+                                ? Icon(
+                                    Icons.visibility_off,
+                                    color: Colors.black,
+                                  )
                                 : Icon(Icons.visibility, color: Colors.black),
                             onPressed: () => password(),
                           )),
@@ -340,6 +347,18 @@ class _SignInState extends State<SignIn> {
                           ],
                         ),
                       ),
+                    ),
+                    SizedBox(height: 25),
+                    GestureDetector(
+                      child: Text('Forgot Password',
+                          style: TextStyle(
+                            decoration: TextDecoration.underline,
+                            fontSize: 16,
+                            fontWeight: FontWeight.w600,
+                          )),
+                      onTap: () {
+                        Navigator.pushNamed(context, ForgotPassword.routeName);
+                      },
                     ),
                     // SignInButtons(),
                   ],
