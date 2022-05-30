@@ -1,4 +1,0 @@
-# Referenced at C:\Users\jishn\Desktop\PROJECT FINAL\leftover_basket\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:22
--keep class android.app.Application { <init>(); }
-# Referenced at C:\Users\jishn\Desktop\PROJECT FINAL\leftover_basket\build\app\intermediates\merged_manifests\debug\AndroidManifest.xml:22
--keep class androidx.core.app.CoreComponentFactory { <init>(); }

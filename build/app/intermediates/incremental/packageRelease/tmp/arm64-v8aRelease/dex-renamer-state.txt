@@ -1,4 +1,0 @@
-#Sat May 28 01:10:34 IST 2022
-base.0=C\:\\Users\\jishn\\Desktop\\PROJECT FINAL\\leftover_basket\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
